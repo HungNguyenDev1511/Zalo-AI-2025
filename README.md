@@ -1,5 +1,5 @@
 # Zalo-AI-2025
-Link cuộc thi: https://challenge.zalo.ai/portal/road-buddy 
+Link cuộc thi: https://challenge.zalo.ai/portal/road-buddy.
 Đề bài bao gồm 1 tập dữ liệu.
 Tập train bao gồm 1490 file video tình huống về luật giao thông đường bộ và một file json chứa hỏi và đáp án tương ứng với các trường hợp
 Tập test bao gồm 480 file video tình huống và một file json chứa câu hỏi
